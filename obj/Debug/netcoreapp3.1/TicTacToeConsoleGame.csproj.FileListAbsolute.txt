@@ -1,0 +1,12 @@
+C:\Users\MOHSEN\source\repos\TicTacToeConsoleGame\bin\Debug\netcoreapp3.1\TicTacToeConsoleGame.exe
+C:\Users\MOHSEN\source\repos\TicTacToeConsoleGame\bin\Debug\netcoreapp3.1\TicTacToeConsoleGame.deps.json
+C:\Users\MOHSEN\source\repos\TicTacToeConsoleGame\bin\Debug\netcoreapp3.1\TicTacToeConsoleGame.runtimeconfig.json
+C:\Users\MOHSEN\source\repos\TicTacToeConsoleGame\bin\Debug\netcoreapp3.1\TicTacToeConsoleGame.runtimeconfig.dev.json
+C:\Users\MOHSEN\source\repos\TicTacToeConsoleGame\bin\Debug\netcoreapp3.1\TicTacToeConsoleGame.dll
+C:\Users\MOHSEN\source\repos\TicTacToeConsoleGame\bin\Debug\netcoreapp3.1\TicTacToeConsoleGame.pdb
+C:\Users\MOHSEN\source\repos\TicTacToeConsoleGame\obj\Debug\netcoreapp3.1\TicTacToeConsoleGame.csproj.CoreCompileInputs.cache
+C:\Users\MOHSEN\source\repos\TicTacToeConsoleGame\obj\Debug\netcoreapp3.1\TicTacToeConsoleGame.AssemblyInfoInputs.cache
+C:\Users\MOHSEN\source\repos\TicTacToeConsoleGame\obj\Debug\netcoreapp3.1\TicTacToeConsoleGame.AssemblyInfo.cs
+C:\Users\MOHSEN\source\repos\TicTacToeConsoleGame\obj\Debug\netcoreapp3.1\TicTacToeConsoleGame.dll
+C:\Users\MOHSEN\source\repos\TicTacToeConsoleGame\obj\Debug\netcoreapp3.1\TicTacToeConsoleGame.pdb
+C:\Users\MOHSEN\source\repos\TicTacToeConsoleGame\obj\Debug\netcoreapp3.1\TicTacToeConsoleGame.genruntimeconfig.cache
