@@ -15,5 +15,5 @@ Visual Studio 2017 or higher.
 ### Installing
 
 Find the Visual Studio versions in this link : 
-<a href="https://visualstudio.microsoft.com/downloads/">VS Download</a>
+<a href="https://visualstudio.microsoft.com/downloads/">Visual Studio Download</a>
 
