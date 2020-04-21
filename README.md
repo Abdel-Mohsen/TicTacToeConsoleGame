@@ -5,3 +5,16 @@ Tic-Tac-Toe is a very simple two player game. So only two players can play at a 
 ## Getting Started
 
 Go ahead and download the zip file then decompress it and open the .sln file. You will have the full project click run and you're ready to go.
+
+
+### Prerequisites
+
+Visual Studio 2017 or higher. 
+
+
+### Installing
+
+```
+Find the Visual Studio versions in this link : 
+https://visualstudio.microsoft.com/downloads/
+```
