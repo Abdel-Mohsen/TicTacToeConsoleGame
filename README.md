@@ -33,6 +33,10 @@ Go ahead and download the zip file then decompress it and open the .sln file. Yo
     <img src="Img/5.PNG" alt="TicTacToe"/>
 </p>
 
+<p>After one of those results you can press anykey to reset the game and play again.
+
+<p/>
+
 
 ### Prerequisites
 
