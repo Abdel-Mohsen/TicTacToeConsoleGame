@@ -4,7 +4,7 @@ Tic-Tac-Toe is a very simple two player game. So only two players can play at a 
 
 ## Getting Started
 
-<p>
+<p >
 Go ahead and download the zip file then open the .sln file. You will have the full project click run and you should see this screen : 
 </p>
 <p align="center">
@@ -17,10 +17,12 @@ Go ahead and download the zip file then open the .sln file. You will have the fu
     <img src="Img/2.PNG" alt="TicTacToe"/>
 </p>
 
-<p>After all field assigned to a sign Xs and Os you will have one of the  three results : 
-<p>1. Player ONE Won.<p/>
-<p>2. Player TWO Won.<p/>
-<p>3. Draw No Winners. <p/>
+<p>After all fields assigned to a sign Xs and Os you will have one of the  three results : 
+<ol>
+  <li>Player ONE Won</li>
+  <li>Player TWO Won</li>
+  <li>Draw No Winners</li>
+</ol> 
 <p/>
 <p>Result 1 : <p/>
 <p align="center">
