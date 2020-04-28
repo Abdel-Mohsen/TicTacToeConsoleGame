@@ -4,33 +4,37 @@ Tic-Tac-Toe is a very simple two player game. So only two players can play at a 
 
 ## Getting Started
 
-Go ahead and download the zip file then decompress it and open the .sln file. You will have the full project click run and you should see this screen : 
+<p >
+Go ahead and download the zip file then open the .sln file. You will have the full project click run and you should see this screen : 
+</p>
 <p align="center">
     <img src="Img/1.PNG" alt="TicTacToe"/>
 </p>
 
-<p>Then after you choose a field will automatically replace the field number with the player sign X or O as you see in this screen :<p/>
+<p> Choose a field and it will automatically replace the field number with the player sign X or O as you see in this screen :<p/>
 
 <p align="center">
     <img src="Img/2.PNG" alt="TicTacToe"/>
 </p>
 
-<p>After playing you will have one of the  three results : 
-<p>1. Player ONE Won.<p/>
-<p>2. Player TWO Won.<p/>
-<p>3. Draw No Winners. <p/>
+<p>After all fields assigned to a sign Xs and Os you will have one of the  three results : 
+<ol>
+  <li>Player ONE Won</li>
+  <li>Player TWO Won</li>
+  <li>Draw No Winners</li>
+</ol> 
 <p/>
 <p>Result 1 : <p/>
 <p align="center">
-    <img src="Img/3.PNG" alt="TicTacToe"/>
+    <img src="Img/4.PNG" alt="TicTacToe"/>
 </p>
 <p>Result 2 : <p/>
 <p align="center">
-    <img src="Img/4.PNG" alt="TicTacToe"/>
+    <img src="Img/5.PNG" alt="TicTacToe"/>
 </p>
 <p>Result 3 : <p/>
 <p align="center">
-    <img src="Img/5.PNG" alt="TicTacToe"/>
+    <img src="Img/6.PNG" alt="TicTacToe"/>
 </p>
 
 <p>After one of those results you can press anykey to reset the game and play again.
