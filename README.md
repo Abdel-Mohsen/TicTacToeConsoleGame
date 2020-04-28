@@ -36,9 +36,7 @@ Go ahead and download the zip file then open the .sln file. You will have the fu
 </p>
 
 <p>After one of those results you can press anykey to reset the game and play again.
-<p align="center">
-    <img src="Img/3.PNG" alt="TicTacToe"/>
-</p>
+
 <p/>
 
 
