@@ -8,35 +8,31 @@ Tic-Tac-Toe is a very simple two player game. So only two players can play at a 
 Go ahead and download the zip file then open the .sln file. You will have the full project click run and you should see this screen : 
 </p>
 <p align="center">
-    <img src="Img/1.PNG" alt="TicTacToe"/>
+    <img src="Img/55.PNG" alt="TicTacToe"/>
 </p>
 
-<p> Choose a field and it will automatically replace the field number with the player sign X or O as you see in this screen :<p/>
+<p> Enter a field number and it will automatically replace the field number with the player sign X or O as you see in this screen:<p/>
 
 <p align="center">
-    <img src="Img/2.PNG" alt="TicTacToe"/>
+    <img src="Img/56.PNG" alt="TicTacToe"/>
+</p>
+<p> If one of the players enters an existing field number a message will display to make the players choose another field <p/>
+
+<p align="center">
+    <img src="Img/59.PNG" alt="TicTacToe"/>
 </p>
 
-<p>After all fields assigned to a sign Xs and Os you will have one of the  three results : 
+
+<p>After all fields assigned to player signs Xs and Os you will have one of the three results : 
 <ol>
   <li>Player ONE Won</li>
   <li>Player TWO Won</li>
   <li>Draw No Winners</li>
 </ol> 
 <p/>
-<p>Result 1 : <p/>
 <p align="center">
-    <img src="Img/4.PNG" alt="TicTacToe"/>
+    <img src="Img/54.PNG" alt="TicTacToe"/>
 </p>
-<p>Result 2 : <p/>
-<p align="center">
-    <img src="Img/5.PNG" alt="TicTacToe"/>
-</p>
-<p>Result 3 : <p/>
-<p align="center">
-    <img src="Img/6.PNG" alt="TicTacToe"/>
-</p>
-
 <p>After one of those results you can press anykey to reset the game and play again.
 
 <p/>
@@ -51,4 +47,7 @@ Visual Studio 2017 or higher.
 
 Find the Visual Studio versions in this link : 
 <a href="https://visualstudio.microsoft.com/downloads/">Visual Studio Download</a>
+
+
+
 
