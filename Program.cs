@@ -4,13 +4,14 @@ namespace TicTacToeConsoleGame
 {
     class Program
     {
+        // A 2d array that shape the playground Fields
         static char[,] playgroundFields = new char[3, 3]
         {
             {'1','2','3'},
             {'4','5','6'},
             {'7','8','9'}
         };
-
+        // to count turns 
         static int turns = 0;
 
         static void Main(string[] args)
@@ -18,7 +19,10 @@ namespace TicTacToeConsoleGame
             Play();
         }
 
-
+        /// <summary>
+        /// This method draw a 2d array that contains the set of fields to shape the playground Fields 
+        /// on the console
+        /// </summary>
         public static void DrawFields()
         {
             Console.Clear();
@@ -37,7 +41,9 @@ namespace TicTacToeConsoleGame
         }
 
 
-
+        /// <summary>
+        /// This method is responsible for the game rules and the play techniques
+        /// </summary>
         public static void Play()
         {
             int player = 2;
@@ -46,21 +52,25 @@ namespace TicTacToeConsoleGame
 
             do
             {
+                // the first time the player count is = 2, so player one choose a field  
                 if (player == 2)
                 {
                     player = 1;
                     XorO('O', input);
                 }
+                // the second time the player count is = 1, so player two choose a field 
                 else if (player == 1)
                 {
                     player = 2;
                     XorO('X',input);
                 }
+                // re-draw the fields with the player choices 
                 DrawFields();
 
                 #region
 
                 char[] playerChoices = { 'X', 'O' };
+                // loop to check if one of the players won or if it's a draw
                 foreach (char playerChoice in playerChoices)
                 {
                     if ((playgroundFields[0, 0] == playerChoice) && (playgroundFields[0, 1] == playerChoice) && (playgroundFields[0, 2] == playerChoice)
@@ -96,6 +106,7 @@ namespace TicTacToeConsoleGame
                 }
                 #endregion
                 #region
+                // takes an input from the players and check if it's a vaild field or not 
                 do
                 {
                         Console.WriteLine("\nPlease Player number {0} Enter Your Field : ", player);
@@ -139,7 +150,12 @@ namespace TicTacToeConsoleGame
             
         }
 
-
+        /// <summary>
+        /// This method takes two parameters and check which field the player has choosen to replace it with 
+        /// the player sign (X or O)
+        /// </summary>
+        /// <param name="playerSign"></param>
+        /// <param name="input"></param>
         public static void XorO(char playerSign,int input)
         {
             switch (input)
@@ -174,6 +190,9 @@ namespace TicTacToeConsoleGame
             }
         }
 
+        /// <summary>
+        /// This method reset the 2d array to it's first shape and re-draw the fields on the console
+        /// </summary>
         public static void ResetPlaygroundFields()
         {
             char[,] playgroundFieldsAfterReset = new char[3, 3]
