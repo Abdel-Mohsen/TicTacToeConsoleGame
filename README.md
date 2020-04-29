@@ -65,15 +65,15 @@ Find the Visual Studio versions in this link :
     <img src="Img/60.PNG" alt="TicTacToe"/>
 </p>
 <ol>
-  <li>DrawFields() :  this method is responsible for drawing a 2d array that contains the set of fields to shape the playground Fields.</li>
+  <li>DrawFields() :  this method is responsible for drawing a 2D array that contains the set of fields to shape the playground Fields.</li>
   <li>Play() :  this method is responsible for the game rules and the play techniques. </li>
-  <li>XorO(char playerSign,int input) :  his method takes two parameters and check which field the player has choosen to replace it with the player sign (X or O).</li>
-  <li>ResetPlaygroundFields() :  this method is responsible for resetting the 2d array to it's first shape and re-draw the fields on the console.</li>
+  <li>XorO(char playerSign,int input) :  this method takes two parameters and check which field the player has choosen to replace it with the player sign (X or O).</li>
+  <li>ResetPlaygroundFields() :  this method is responsible for resetting the 2D array to it's first shape and re-draw the fields on the console.</li>
 </ol> 
 
 </p>
 
 
-##Note
+## Note
 
 I will gladly acccept any comments or updates to the code just if you have any better ideas or found a bug that I missed let me know and assign  me a pull request. 
