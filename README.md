@@ -51,7 +51,7 @@ Find the Visual Studio versions in this link :
 ## Code
 <p>In this project I used: 
  <ol>
-  <li>Multidimensional array (2d array).</li>
+  <li>Multidimensional array (2D array).</li>
   <li>Methods.</li>
   <li>Loops.</li>
   <li>conditions. (if condition & switch case)</li>
