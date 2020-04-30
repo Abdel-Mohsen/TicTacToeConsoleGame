@@ -37,16 +37,6 @@ Go ahead and download the zip file then open the .sln file. You will have the fu
 <p/>
 
 
-## Prerequisites
-
-Visual Studio 2017 or higher. 
-
-
-## Installing
-
-Find the Visual Studio versions in this link : 
-<a href="https://visualstudio.microsoft.com/downloads/" target="_blank">Visual Studio Download</a>
-
 
 ## Code
 <p>In this project I used: 
@@ -72,6 +62,20 @@ Find the Visual Studio versions in this link :
 </ol> 
 
 </p>
+
+
+
+## Prerequisites
+
+Visual Studio 2017 or higher. 
+
+
+## Installing
+
+Find the Visual Studio versions in this link : 
+<a href="https://visualstudio.microsoft.com/downloads/" target="_blank">Visual Studio Download</a>
+
+
 
 
 ## Note
